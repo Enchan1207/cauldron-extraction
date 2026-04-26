@@ -1,0 +1,30 @@
+{
+  "folders": [
+    {
+      "name": "main",
+      "path": "./src/main/java/me/enchan/cauldronextraction",
+    },
+    {
+      "name": "resources",
+      "path": "./src/main/resources",
+    },
+    {
+      "name": "dist",
+      "path": "./build/libs",
+    },
+    {
+      "name": "workflows",
+      "path": "./.github/workflows",
+    },
+    {
+      "name": "(root)",
+      "path": "./",
+    },
+  ],
+  "settings": {
+    "explorer.compactFolders": true,
+  },
+  "extensions": {
+    "recommendations": ["redhat.java", "vscjava.vscode-java-pack"],
+  },
+}
